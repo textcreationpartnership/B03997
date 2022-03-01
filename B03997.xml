@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a merchant in Scotland, to his correspondent in London. Relating to the duty upon Scotch-linnen.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03997</idno>
+            <idno type="STC">Wing L1414A</idno>
+            <idno type="STC">ESTC R179537</idno>
+            <idno type="EEBO-CITATION">51617602</idno>
+            <idno type="OCLC">ocm 51617602</idno>
+            <idno type="VID">175276</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175276)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2726:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a merchant in Scotland, to his correspondent in London. Relating to the duty upon Scotch-linnen.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data from Wing.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Linen industry --  Taxation --  Scotland --  Early works to 1800.</term>
+               <term>Linen industry --  Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="modern_bookplate">
+            <pb facs="tcp:175276:1" rendition="simple:additions"/>
+            <p>
+               <add>Columbia Vniversity in the City of New York<lb/>
+LIBRARY</add>
+            </p>
+            <p>
+               <add>THE SELIGMAN LIBRARY OF ECONOMICS PURCHASED BY THE UNIVERSITY 1929</add>
+            </p>
+            <pb facs="tcp:175276:1"/>
+            <pb facs="tcp:175276:2"/>
+            <pb facs="tcp:175276:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:175276:3"/>
+            <pb n="1" facs="tcp:175276:3"/>
+            <head>A LETTER From a Merchant in <hi>SCOTLAND,</hi> To his Correſpondent in <hi>London.</hi> Relating to the Duty upon <hi>SCOTCH-LINNEN.</hi>
+            </head>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>I Have your Letter of the Inſtant, wherein you give me an Account, That the Parliament of <hi>England</hi> have Voted to lay an Additional Duty of 1 <hi>d. per</hi> Ell, on <hi>Scotch</hi> Linnen, in order to raiſe Mo<g ref="char:EOLhyphen"/>ney to Supply the Deficiency of ſome Funds.</p>
+            <p>
+               <pb n="2" facs="tcp:175276:4"/>
+Alſo you are pleaſed to Inform me, That as an Act of kindneſs to me, and the reſt of your Friends here, you have uſed all your Intereſt, and engag'd all your Friends againſt the ſaid Bill, for which we ſuppoſe you expect our Thanks.</p>
+            <p>We think our ſelves obliged to thank you for your Intention, but are very ſorry your Good Will ſhould fall under the Unhappineſs of a miſtake; and therefore be<g ref="char:EOLhyphen"/>fore we explain our ſelves, we deſire you by all means to deſiſt any farther Sollicitation of that Affair, unleſs you will be ſo kind as to engage all your Intereſts and Friends on the other hand, if it be poſſible, to get the Bill to Paſs.</p>
+            <p>Poſſibly you may think this ſomething ſtrange; but in order to convince your Judgment, that your Friendſhip may joyn with your Diſcretion in the Matter, I take the liberty to open your Eyes a little, and ſhow you what is and what is not the true Intereſt of our Trade in <hi>Scotland.</hi>
+            </p>
+            <p>Firſt, you are to underſtand, <hi>Scotland</hi> does not gain of <hi>England,</hi> but <hi>England</hi> gains of <hi>Scotland,</hi> by the General Trade of both Nations. I prove this by this Rule of Trade; That in Trade, that Nation Gains moſt which Ex<g ref="char:EOLhyphen"/>ports moſt Goods of its own Growth, and receives back moſt Money. Now 'tis allow'd that we receive from <hi>Eng<g ref="char:EOLhyphen"/>land</hi> about 60000 l. <hi>per Annum</hi> in Goods more than we Ex<g ref="char:EOLhyphen"/>port to them; the Remainder of which we remit by Bills, which is Money; and conſequently <hi>England</hi> Gains of <hi>Scotland</hi> 60000 1. <hi>per Annum,</hi> by the Trade.</p>
+            <p>The reaſon of this is the want of thoſe Manufactures in <hi>Scotland</hi> which we have from <hi>England,</hi> and which we cannot be without, nor be well ſupplied with elſe<g ref="char:EOLhyphen"/>where.</p>
+            <p>We who have a true Notion of the <hi>Engliſh</hi> Trade, and the great diſadvantages we are under in our Tra<g ref="char:EOLhyphen"/>ding
+<pb n="3" facs="tcp:175276:4"/>thither, have often Eſſay'd to ſupply our ſelves with thoſe uſeful Goods, ſometimes from <hi>Ireland,</hi> ſometimes from <hi>Holland;</hi> but finding that either way it ſtill enrich'd the perſons who ſupply'd us, and exhauſted our Countrey of ready Money; and withal, in hopes of reaping the advantage of ſo beneficial a Trade, at laſt we began to enquire, why we might not make thoſe Goods at home, which we buy ſo much to our diſadvantage from ab<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ad.</p>
+            <p>On this Enquiry, we found we had Wooll enough of our own, which, with the help of <hi>Spaniſh</hi> Wooll, would enable us to make Broad-Cloths, and Stuffs, and what other things of that nature we might want; we found we have hands enough of our own Poor to Manufacture it, and to Spin, Weave, Knit, <hi>&amp;c.</hi> And in ſhort, we have with a Joynt Stock Erected a Company for the carrying on this profita<g ref="char:EOLhyphen"/>ble uſeful deſign, and we have met with ſuch ſucceſs in it hitherto, as that we doubt not in a ſhort time, not only to ſupply our own Nation, but Foreign parts alſo, and to let the World ſee that <hi>Scotland</hi> is an induſtrious Nation, and have only hitherto wanted due encourage<g ref="char:EOLhyphen"/>ment to make proof of it.</p>
+            <p>Now in order to encourage our Deſign for the ad<g ref="char:EOLhyphen"/>vantage of our Native Country, I know nothing in the World cou'd have contributed more to us, than ſome diſcouragement on the vaſt Exportation of Linnen. The Linnen Manufacture in <hi>Scotland,</hi> is that which our Poor are ſo vers'd in, and ſo us'd to, that we find it difficult to bring them off from it; nay, though we give them better Wages than they can Earn in the other. Our Work ſeems new to them, and they think they are not ſo ſecure of conſtant Employ; but now if the <hi>Engliſh</hi> Parliament will lay a Duty on <hi>Scotch</hi> Linnen,
+<pb n="4" facs="tcp:175276:5"/>by which the Quantity ſold may be diminiſhed, the Poor will come under ſome neceſſity to work for us, and we ſhall ſoon have our Manufactures flouriſh.</p>
+            <p>Beſides, If we can but bring our Works to any Ma<g ref="char:EOLhyphen"/>turity againſt our next Parliament, we are in great hopes to get a general prohibition of all <hi>Engliſh</hi> Woollen Manufactures; to which, the Duty impoſed upon our Linnens in <hi>England</hi> will be a very great Argument; and if theſe Two Points are gain'd, we believe you will grant that our Company will be in a very good condition.</p>
+            <p>As to the Goods we make, we have already very good Broad-Cloths and Serges made here; and we do not doubt in a very ſhort time to purchaſe our <hi>Spaniſh</hi> Wooll and Dyers Stuff abroad with our own Goods.</p>
+            <p>By this ſhort Hiſtory of the Undertaking in <hi>Scotland,</hi> you will eaſily ſee that it is far from being our intereſt to oppoſe the laying a Duty on <hi>Scotch</hi> Linnen in <hi>England.</hi>
+            </p>
+            <p>We are inform'd the Parliament are conſidering of Methods alſo to prevent the Improvement of the Woollen Manufacture in <hi>Ireland,</hi> and that one way they are plea<g ref="char:EOLhyphen"/>ſed to think of, is to encourage the Linnen Manufa<g ref="char:EOLhyphen"/>cture there. It is, no queſtion, a very proper way, and if it can be brought to paſs, will certainly anſwer the End; and it ſeem'd ſtrange to us at firſt ſight, that the Parliament ſhould not apprehend the very ſame thing in <hi>Scotland,</hi> but attempt to diſcourage our Linnen Trade, which is the only preſent hindrance of our fal<g ref="char:EOLhyphen"/>ling into the Woollen, at as large a rate as ever <hi>Ireland</hi> can pretend to.</p>
+            <p>If ever we in <hi>Scotland</hi> bring our Woollen Manufacture to ſuch a head as we hope to do, we do not queſtion
+<pb n="5" facs="tcp:175276:5"/>but we may have a <hi>Hamborough</hi> as well as an <hi>Eaſt-India</hi> Company, with Priviledges as great as other Compa<g ref="char:EOLhyphen"/>nies enjoy; and indeed I cannot ſee why the <hi>Engliſh</hi> ſhould envy us the Improvement of Trade, and the Growth of our own Country, ſince they themſelves received the firſt Inſtructions in all their Manufactures from their Neighbours the <hi>Flemings.</hi>
+            </p>
+            <p>And yet, I acknowledge, we ought not to think that the <hi>Engliſh</hi> do envy us at all, or that they will at all reſent our Setting up the Woollen Manufacture for that. If we had been to ask of your Nation, what they would do for us, to encourage and help us forward in the Infancy of our Undertaking, we could have deſir'd no greater Favour than they have done us in diſcouraging our Linnen Work.</p>
+            <p>The Making of Linnen in <hi>Scotland</hi> ſeems to have been introduced rather by a Neceſſity than a Profit; the Wages to the Poor is very ſmall, the Profit to the Mer<g ref="char:EOLhyphen"/>chant much leſs, and the Advantage to the Nation none at all. But if we can come to ſome degree of Improve<g ref="char:EOLhyphen"/>ment in the Woollen Trade, we may in time be as Rich, and as Populous as <hi>England;</hi> for ſo many thou<g ref="char:EOLhyphen"/>ſands of our People would never have gone abroad, if ſome uſeful and profitable Manufacture had been ſettled at home.</p>
+            <p>This we are upon, and this we hope to accompliſh; and ſince ſo happy a Juncture offers it ſelf to remove the only Obſtacle, <hi>viz.</hi> the Linnen Trade, we beg of you by no means to hinder it.</p>
+            <p>It is needleſs, I ſuppoſe, to uſe any Arguments here to convince you that a Duty on <hi>Scots</hi> Cloth in <hi>England</hi> will leſſen the making of it; but you may take a little to demonſtrate the General.</p>
+            <p n="1">
+               <pb n="6" facs="tcp:175276:6"/>
+1. We have no Vent for our Linnen but into <hi>England</hi> and <hi>Ireland,</hi> our own Expence excepted; now the Mar<g ref="char:EOLhyphen"/>ket in <hi>England</hi> is ſecured by our ſelling Cheaper than the <hi>Germany</hi> Linnen, for our <hi>Scots</hi> Cloth is rather inferior to the <hi>Germany</hi> Linnen in its quality, and if it be but at the ſame price, the <hi>Germany</hi> Linnen ſells before it; but we un<g ref="char:EOLhyphen"/>der-ſell them 1 <hi>d. per</hi> Ell, and that ſecures the Trade. Now this Duty which is juſt a Penny an Ell, brings them to an Equality, and ſo the <hi>Germans</hi> will have all the Trade: I appeal to the Drapers and Merchants at <hi>London</hi> for the truth of this.</p>
+            <p>But it may be Objected, That we may abate 1 <hi>d. per</hi> Ell in the Price; to that I anſwer, With all my heart; for then either the Maker would put none out, or the Mer<g ref="char:EOLhyphen"/>chant would buy none, and that would do our buſineſs as well.</p>
+            <p>At preſent the utmoſt profit can be made is not above a Halfpenny <hi>per</hi> Ell, and if the Merchant muſt abate 1 <hi>d.</hi> he muſt loſe a halfpenny, and then he would not deal in it; if the Poor muſt abate it in their Price, they Work for ſo little already, that they would leave it, and all run to us for Woollen Work: Either way will anſwer our end, for it will be a full ſtop to our Sale of Cloth to <hi>England,</hi> and that would cauſe our People to want Work, and ſo they may by degrees be brought to the Woollen Manufacture.</p>
+            <p>As to our Vent in <hi>Ireland,</hi> the Parliament reſolving to Encourage the Making of Linnen in that Kingdom, will leſſen our Exportation thither alſo; and ſo in time we may come to make no more Linnen than we uſe our ſelves.</p>
+            <p>If you ask, What advantage this will be to us, ſince we only ſink one Manufacture to raiſe another? I anſwer,</p>
+            <p n="1">1. 'Twill ſave us 70000 <hi>l per Ann.</hi> which we really loſe in the Balance of our Trade to <hi>England,</hi> and which
+<pb n="7" facs="tcp:175276:6"/>
+               <hi>England</hi> now actually gets of us in Trade, by Exporting ſo much more value in Manufactures to us than it Imports from us; and though to ſo Rich a Nation as <hi>England</hi> it is not much, 'tis very conſiderable to us.</p>
+            <p n="2">2. 'Twill employ a multitude more hands than the Linnen does, and ſo much more advantage, and will be a means to keep our People at Home.</p>
+            <p n="3">3. In time we may, as is before noted, be able to vie with the <hi>Engliſh</hi> themſelves, and have a Vent abroad, which will increaſe our Shipping, enrich our Merchants, and improve the whole Kingdom.</p>
+            <p>Theſe and many other advantages will be the effect of it, and therefore we all earneſtly deſire you to make no Oppoſition to the Bill, but hope your Anſwer to this will bring us Word, that 'tis paſt into an Act which, we pray, may never be Repeal'd.</p>
+            <pb facs="tcp:175276:7"/>
+            <pb facs="tcp:175276:7"/>
+            <pb facs="tcp:175276:8"/>
+            <pb facs="tcp:175276:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
